@@ -1,4 +1,4 @@
-langchain==0.0.284
+langchain==0.0332
 python-dotenv==1.0.0
 streamlit==1.22.0
 tiktoken==0.4.0
@@ -8,5 +8,5 @@ flask~=3.0.0
 Gunicorn
 bcrypt
 flask_cors
-openai
+openai==1.2.0
 unstructured
