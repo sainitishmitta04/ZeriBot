@@ -4,3 +4,9 @@ streamlit==1.22.0
 tiktoken==0.4.0
 faiss-cpu==1.7.4
 protobuf~=3.19.0
+flask~=3.0.0
+Gunicorn
+bcrypt
+flask_cors
+openai
+unstructured
