@@ -1,8 +1,8 @@
 streamlit==1.30.0
 langchain==0.0.284
 langchain_community==0.0.20
-pandas==1.3.2
-openai==0.28.0
-python-dotenv==0.19.1
-faiss==1.7.4
-pynndescent==0.5.5
+pandas
+openai
+python-dotenv
+faiss
+pynndescent
